@@ -1,6 +1,5 @@
 # Travel  booking Systetm
-Project Screenshots: https://drive.google.com/drive/folders/16WeZ0i_HDxjioC8oB_
-MUxffWD79nPZW4?usp=sharing
+Project Screenshots: https://drive.google.com/drive/folders/16WeZ0i_HDxjioC8oB_MUxffWD79nPZW4?usp=sharing
 
  
 It is a website of Travels Booking System of a company named 
